@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MultiThreadedSearch": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\idang\\OneDrive\\Documents\\test.txt eao 4 2"
+    }
+  }
+}
